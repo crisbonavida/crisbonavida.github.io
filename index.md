@@ -18,8 +18,10 @@ title: Home
 
     I hold a B.A. and a M.A. in Economics from Universidad Nacional de La Plata. 
 
-    
-    I am also a Research Fellow at the [Center for Distributive, Labor and Social Studies (CEDLAS)]([https://www.cmu.edu](https://www.cedlas.econo.unlp.edu.ar/wp/)).
+    I am also a Research Fellow at the
+    <a href="https://www.cedlas.econo.unlp.edu.ar/wp/" target="_blank">
+    Center for Distributive, Labor and Social Studies (CEDLAS).
+    </a>.
     </p>
 
     <p>
