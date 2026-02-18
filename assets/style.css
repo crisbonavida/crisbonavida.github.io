@@ -1,1 +1,31 @@
+body {
+  background-color: #f2f2f2;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
 
+.hero-container {
+  display: flex;
+  gap: 60px;
+  max-width: 1000px;
+  margin: 60px auto;
+  align-items: flex-start;
+}
+
+.hero-image img {
+  width: 350px;
+  border-radius: 0px; /* imagen rectangular */
+}
+
+.image-caption {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 10px;
+}
+
+.hero-text {
+  flex: 1;
+}
+
+.hero-text h2 {
+  margin-top: 0;
+}
