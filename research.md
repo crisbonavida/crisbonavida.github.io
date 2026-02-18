@@ -6,6 +6,7 @@ permalink: /research/
 
 <div class="research-container">
 
+<section class="research-section">
 <h2>Journal Articles</h2>
 
 <ul class="paper-list">
@@ -34,6 +35,7 @@ Revista de Análisis Económico, 37(1).
 </ul>
 </section>
 
+<section class="research-section">
 <h2>Working Papers</h2>
 
 <ul class="paper-list">
@@ -63,6 +65,7 @@ CEDLAS Working Paper No. 0264.
 </section>
 
 
+<section class="research-section">
 <h2>Book Chapters</h2>
 
 <ul class="paper-list">
