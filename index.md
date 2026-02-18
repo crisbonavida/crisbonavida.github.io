@@ -10,7 +10,7 @@ title: Home
   </div>
 
   <div class="hero-text">
-    <h2>Hi!</h2>
+    <h23>Hi! My name is Cristian</h3>
 
     <p>
     I am a PhD student in Public Policy at Carnegie Mellon University, interested in labor markets,
