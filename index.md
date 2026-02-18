@@ -16,7 +16,9 @@ title: Home
     I am a PhD student in Public Policy at Carnegie Mellon University, interested in labor markets,
     household economics, and policy evaluation.
 
+
     I hold a B.A. and a M.A. in Economics from Universidad Nacional de La Plata. 
+
 
     I am also a Research Fellow at the
     <a href="https://www.cedlas.econo.unlp.edu.ar/wp/" target="_blank">
