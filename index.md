@@ -29,7 +29,7 @@ title: Home
     </p>
 
     <p>
-    I previously worked as a Research Fellow at CAF in Development Economics for Latin American Countries, and at World Bank nowcasting poverty with Machine Learning methdos. 
+    I previously worked as a Research Fellow at CAF in Development Economics for Latin American Countries, and at World Bank nowcasting poverty with Machine Learning methods. 
     </p>
 
     <h3>Research Interests</h3>
