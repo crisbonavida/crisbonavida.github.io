@@ -36,7 +36,7 @@ title: Home
 
     <ul>
       <li>Labor Economics</li>
-      <li>Economics of Migration</li>
+      <li>Household Economics</li>
       <li>Applied Microeconometrics</li>
     </ul>
   </div>
