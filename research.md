@@ -33,7 +33,6 @@ Revista de Análisis Económico, 37(1).
 </li>
 
 </ul>
-</section>
 
 <section class="research-section">
 <h2>Working Papers</h2>
@@ -62,7 +61,6 @@ CEDLAS Working Paper No. 0264.
 </li>
 
 </ul>
-</section>
 
 
 <section class="research-section">
@@ -78,6 +76,5 @@ In <em>The Elgar Companion to Social Economics</em>, Third Edition. Forthcoming.
 </li>
 
 </ul>
-</section>
 
 </div>
