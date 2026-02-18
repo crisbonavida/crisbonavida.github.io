@@ -15,21 +15,21 @@ permalink: /research/
 Blair, P. Q., Castagnino, T., Groshen, E., Debroy, P., Auguste, B., Ahmed, S., and <strong>Bonavida, C.</strong> (2020).  
 <em>Searching for STARs: Work Experience as a Job Market Signal for Workers without Bachelor's Degrees.</em>  
 NBER Working Paper No. 26844.  
-<a href="#" target="_blank">[Paper]</a>
+<a href="https://www.nber.org/papers/w26844" target="_blank">[Paper]</a>
 </li>
 
 <li>
 <strong>Bonavida, C.</strong> and Gasparini, L. (2020).  
 <em>Asymmetries in the Viability of Remote Work: Estimates and Implications During Quarantine.</em>  
 Revista Económica, Universidad Nacional de La Plata.  
-<a href="#" target="_blank">[Paper]</a>
+<a href="https://revistas.unlp.edu.ar/Economica/article/view/10088" target="_blank">[Paper]</a>
 </li>
 
 <li>
 <strong>Bonavida, C.</strong>, Brambilla, I., and Gasparini, L. (2022).  
 <em>Automation and Pandemic: Threats to Employment in Latin America.</em>  
 Revista de Análisis Económico, 37(1).  
-<a href="#" target="_blank">[Paper]</a>
+<a href="https://www.scielo.cl/pdf/rae/v37n1/0718-8870-rae-37-01-27.pdf" target="_blank">[Paper]</a>
 </li>
 
 </ul>
@@ -57,7 +57,7 @@ AAEP.
 <strong>Bonavida, C.</strong> (2020).  
 <em>The Risk of Automation from a Task Content Perspective: Estimates for Argentina.</em>  
 CEDLAS Working Paper No. 0264.  
-<a href="#" target="_blank">[Paper]</a>
+<a href="https://www.cedlas.econo.unlp.edu.ar/wp/wp-content/uploads/doc_cedlas264.pdf" target="_blank">[Paper]</a>
 </li>
 
 </ul>
