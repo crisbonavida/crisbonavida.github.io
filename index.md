@@ -40,10 +40,12 @@ title: Home
       <li>Applied Microeconometrics</li>
     </ul>
 
-
+    <p>
     Please find me at:
+    <p>
+    <p>
     cristianbonavida[at]gmail[dot]com
     cbonavid[at]andrew[dot]cmu[dot]edu
-    
+    <p>
   </div>
 </div>
