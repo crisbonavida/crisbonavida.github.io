@@ -42,6 +42,8 @@ title: Home
 
     <p>
     Please feel free to reach out:
+    </p>
+    <p>
     cristianbonavida[at]gmail[dot]com | cbonavid[at]andrew[dot]cmu[dot]edu
     </p>
 
