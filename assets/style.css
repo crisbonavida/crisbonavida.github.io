@@ -76,7 +76,7 @@ body {
 }
 
 .hero-text h3 {
-  margin-top: 40px;
+  margin-top: 30px;
   font-size: 1.2rem;
 }
 
@@ -204,7 +204,7 @@ a:hover {
 /* CONTACT */
 
 .hero-text .contact-line {
-  margin-top: 18px;
+  margin-top: 25px;
   margin-bottom: 5px;
 }
 
