@@ -48,12 +48,6 @@ Revista Económica, Universidad Nacional de La Plata.
 <ul class="paper-list">
 
 <li>
-<strong>Bonavida, C.</strong> (2026).  
-Marriage as Insurance: Household Responses to Immigration Policy Uncertainty. Working paper. 
-<a href="/papers/marriage2.pdf" target="_blank">[Draft]</a>
-</li>
-
-<li>
 Berniell, L., <strong>Bonavida, C.</strong>, and de la Mata, D. (2023).  
 <em>When Does Family Size Matter for Children’s Education? Causal Evidence from Latin America.</em>  
 CAF Working Papers Series.  
