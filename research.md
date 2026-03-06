@@ -55,9 +55,9 @@ Marriage as Insurance: Household Responses to Immigration Policy Uncertainty. Wo
 
 <li>
 Berniell, L., <strong>Bonavida, C.</strong>, and de la Mata, D. (2023).  
-<em>Testing the Trade-off between Family Size and Human Capital of Children: Evidence from Census Data for Five Latin American Countries.</em>  
-AAEP.  
-<a href="#" target="_blank">[Paper]</a>
+<em>When Does Family Size Matter for Children’s Education? Causal Evidence from Latin America.</em>  
+CAF Working Papers Series.  
+<a href="https://scioteca.caf.com/handle/123456789/2598" target="_blank">[Paper]</a>
 </li>
 
 <li>
