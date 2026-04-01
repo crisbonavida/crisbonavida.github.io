@@ -51,21 +51,21 @@ Revista Económica, Universidad Nacional de La Plata.
 <strong>Bonavida, C.</strong>. (2026). Marriage as Insurance: Household Responses to
 Immigration Policy Uncertainty. Working Paper Nº 369, March, 2026,
 CEDLAS-Universidad Nacional de La Plata.
-<a href="https://www.cedlas.econo.unlp.edu.ar/wp/wp-content/uploads/doc_cedlas369.pdf?dl=0" target="_blank">[Paper]</a>
+<a href="https://www.cedlas.econo.unlp.edu.ar/wp/wp-content/uploads/doc_cedlas369.pdf?dl=0" target="_blank">[Draft]</a>
 </li>
 
 <li>
 Berniell, L., <strong>Bonavida, C.</strong>, and de la Mata, D. (2023).  
 <em>When Does Family Size Matter for Children’s Education? Causal Evidence from Latin America.</em>  
 CAF Working Papers Series.  
-<a href="https://scioteca.caf.com/handle/123456789/2598" target="_blank">[Paper]</a>
+<a href="https://scioteca.caf.com/handle/123456789/2598" target="_blank">[Draft]</a>
 </li>
 
 <li>
 <strong>Bonavida, C.</strong> (2020).  
 <em>The Risk of Automation from a Task Content Perspective: Estimates for Argentina.</em>  
 CEDLAS Working Paper No. 0264.  
-<a href="https://www.cedlas.econo.unlp.edu.ar/wp/wp-content/uploads/doc_cedlas264.pdf" target="_blank">[Paper]</a>
+<a href="https://www.cedlas.econo.unlp.edu.ar/wp/wp-content/uploads/doc_cedlas264.pdf" target="_blank">[Draft]</a>
 </li>
 
 </ul>
