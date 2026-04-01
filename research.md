@@ -14,8 +14,8 @@ permalink: /research/
 <li>
 <strong>Bonavida, C.</strong> and Gasparini, L. (2026).  
 <em>The Role of Skills and Tasks in Gender Gaps in Latin America.</em>  
-<em>[Forthcoming Review of Development Economic].</em>  
-<a href="#" target="_blank">[Draft]</a>
+<em>Review of Development Economic.</em>  
+<a href="https://onlinelibrary.wiley.com/doi/10.1111/rode.70150" target="_blank">[Paper]</a>
 </li>
 
 <li>
