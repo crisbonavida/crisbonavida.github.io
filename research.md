@@ -51,7 +51,7 @@ Revista Económica, Universidad Nacional de La Plata.
 <strong>Bonavida, C.</strong>. (2026). Marriage as Insurance: Household Responses to
 Immigration Policy Uncertainty. Working Paper Nº 369, March, 2026,
 CEDLAS-Universidad Nacional de La Plata.
-<a href="papers/marriage_as_Insurance.pdf" target="_blank">[Draft]</a>
+<a href="papers/Marriage_as_Insurance.pdf" target="_blank">[Draft]</a>
 </li>
 
 <li>
