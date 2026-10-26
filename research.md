@@ -58,6 +58,7 @@ CEDLAS Working Paper No. 369.
 <li>
 Berniell, L., <strong>Bonavida, C.</strong>, and de la Mata, D. (2023).  
 <em>When Does Family Size Matter for Children’s Education? Causal Evidence from Latin America.</em>  
+R&R, <em>Demography</em>.  
 CAF Working Papers Series.  
 <a href="https://scioteca.caf.com/handle/123456789/2598" target="_blank">[Draft]</a>
 </li>
