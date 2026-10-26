@@ -14,7 +14,7 @@ permalink: /research/
 <li>
 <strong>Bonavida, C.</strong> and Gasparini, L. (2026).  
 <em>The Role of Skills and Tasks in Gender Gaps in Latin America.</em>  
-<em>Review of Development Economic.</em>  
+<em>Review of Development Economics.</em>  
 <a href="https://onlinelibrary.wiley.com/doi/10.1111/rode.70150" target="_blank">[Paper]</a>
 </li>
 
@@ -23,13 +23,6 @@ permalink: /research/
 <em>Automation and Pandemic: Threats to Employment in Latin America.</em>  
 Revista de Análisis Económico, 37(1).  
 <a href="https://www.scielo.cl/pdf/rae/v37n1/0718-8870-rae-37-01-27.pdf" target="_blank">[Paper]</a>
-</li>
-  
-<li>
-Blair, P. Q., Castagnino, T., Groshen, E., Debroy, P., Auguste, B., Ahmed, S., and <strong>Bonavida, C.</strong> (2020).  
-<em>Searching for STARs: Work Experience as a Job Market Signal for Workers without Bachelor's Degrees.</em>  
-NBER Working Paper No. 26844.  
-<a href="https://www.nber.org/papers/w26844" target="_blank">[Paper]</a>
 </li>
 
 <li>
@@ -41,6 +34,7 @@ Revista Económica, Universidad Nacional de La Plata.
 
 
 </ul>
+</section>
 
 <section class="research-section">
 <h2>Working Papers</h2>
@@ -48,10 +42,17 @@ Revista Económica, Universidad Nacional de La Plata.
 <ul class="paper-list">
 
 <li>
-<strong>Bonavida, C.</strong>. (2026). Marriage as Insurance: Household Responses to
-Immigration Policy Uncertainty. Working Paper Nº 369, March, 2026,
-CEDLAS-Universidad Nacional de La Plata.
-<a href="/papers/Marriage_as_Insurance.pdf" target="_blank">[Draft]</a>
+<strong>Bonavida, C.</strong> (2026).  
+<em>Cash Transfers, Gambling and Domestic Violence.</em>  
+Working Paper.  
+<a href="/papers/Cash_Transfers_Gambling_Domestic_Violence.pdf" target="_blank" data-goatcounter-click="download-gambling-draft">[Draft]</a>
+</li>
+
+<li>
+<strong>Bonavida, C.</strong> (2026).  
+<em>Marriage as Insurance: Household Responses to Immigration Policy Uncertainty.</em>  
+CEDLAS Working Paper No. 369.
+<a href="/papers/Marriage_as_Insurance.pdf" target="_blank" data-goatcounter-click="download-marriage-draft">[Draft]</a>
 </li>
 
 <li>
@@ -62,6 +63,13 @@ CAF Working Papers Series.
 </li>
 
 <li>
+Blair, P. Q., Castagnino, T., Groshen, E., Debroy, P., Auguste, B., Ahmed, S., and <strong>Bonavida, C.</strong> (2020).  
+<em>Searching for STARs: Work Experience as a Job Market Signal for Workers without Bachelor's Degrees.</em>  
+NBER Working Paper No. 26844.  
+<a href="https://www.nber.org/papers/w26844" target="_blank">[Paper]</a>
+</li>
+
+<li>
 <strong>Bonavida, C.</strong> (2020).  
 <em>The Risk of Automation from a Task Content Perspective: Estimates for Argentina.</em>  
 CEDLAS Working Paper No. 0264.  
@@ -69,6 +77,7 @@ CEDLAS Working Paper No. 0264.
 </li>
 
 </ul>
+</section>
 
 <section class="research-section">
 <h2>Book Chapters</h2>
@@ -83,5 +92,6 @@ In <em>The Elgar Companion to the Economies of Latin America and the Caribbean</
 </li>
 
 </ul>
+</section>
 
 </div>
